@@ -1,0 +1,4 @@
+Ivanov : 20000
+Petrov : 14000
+Sidorov : 35000
+Petruhin : 41000
